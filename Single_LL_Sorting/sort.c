@@ -41,7 +41,7 @@ void insert_node (int data,char *ptr3)
 
 int main()
 {
-        /* Inserting five Values  */
+        /* Inserting a five values to the structure  */
 	
 	insert_node(5,"ANUABI");	
         insert_node(1,"ASHOK");	
