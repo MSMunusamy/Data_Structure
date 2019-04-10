@@ -1,8 +1,8 @@
 /*************************************/
 /* Author      :Munusamy M           */
 /* Date        :09-04-2019           */
-/* Filename    :header.h             */
-/* Description :header file          */
+/* Filename    :sort.c               */
+/* Description :Sorting program      */
 /*                                   */
 /*************************************/
 
