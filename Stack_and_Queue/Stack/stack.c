@@ -88,13 +88,3 @@ while(!isempty())
 printf("Stack empty: %s\n" , isempty()?"true":"false");
 return 0;
 }
-
-
-
-
-
-
-
-
-
-
